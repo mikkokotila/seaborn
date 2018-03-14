@@ -7,6 +7,7 @@ import numpy as np
 from scipy import stats
 import pandas as pd
 import matplotlib as mpl
+mpl.use('Agg')
 import matplotlib.colors as mplcol
 import matplotlib.pyplot as plt
 
